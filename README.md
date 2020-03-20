@@ -12,6 +12,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | Dataset                   | Release time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
 |---------------------------|------------------|--------|-----------|----------|-------------|-------|------------| ----- |
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50 | EyePACS | DR grading |
+| [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) | 2018 | 516/81 | jpg | / | / | 50 | / | DR & DME grading / Typical DR lesions & optic disc annotation / Optic disc and fovea center location |
 
 ## Papers
 
