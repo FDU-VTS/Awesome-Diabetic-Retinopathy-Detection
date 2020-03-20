@@ -9,14 +9,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Datasets
 
-| Dataset                   | Release time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
-|---------------------------|------------------|--------|-----------|----------|-------------|-------|------------| ----- |
+| Dataset                   | Time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
+|---------------------------|----------|--------|-----------|----------|-------------|-------|------------| ----- |
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50° | EyePACS | DR grading |
-| [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440x960,2240x1488,2304x1536 | 45° | ADCIS | DR & DME grading |
+| [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440x960,<br>2240x1488,<br>2304x1536 | 45° | ADCIS | DR & DME grading |
 | [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) | 2018 | 516/81 | jpg | Kowa VX-10α | 4288x2848 | 50° | Center of Excellence in Signal and Image Processing | DR & DME grading / Typical DR lesions & optic disc detection / Optic disc and fovea center location |
 | [DIARETDB0](https://www.it.lut.fi/project/imageret/diaretdb0/index.html) | 2007 | 130 | jpg | / | 1500x1152 | 50° | / | DR lesions finding |
 | [DIARETDB1](https://www.it.lut.fi/project/imageret/diaretdb1/index.html) | 2007 | 89 | jpg | / | 1500x1152 | 50° | / | DR lesions detection |
-| [ROC](http://webeye.ophth.uiowa.edu/ROC/) | 2007 | 100 | jpg | / | 768×576,1058x1061,1386×1391 | 45° | / | Microaneurysms detection  |
+| [ROC](http://webeye.ophth.uiowa.edu/ROC/) | 2007 | 100 | jpg | / | 768×576,<br>1058x1061,<br>1386×1391 | 45° | / | Microaneurysms detection  |
 | [E-ophtha-EX](http://www.adcis.net/en/third-party/e-ophtha/) | 2013 | 82 | jpeg | / | 2533x1696 | 45° | ADCIS | Exudates detection |
 | [E-ophtha-MA](http://www.adcis.net/en/third-party/e-ophtha/) | 2013 | 381 | jpeg | / | 2533x1696 | 45° | ADCIS | Microaneurysms detection |
 
@@ -40,9 +40,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a> A Framework for Identifying Diabetic Retinopathy Based on Anti-noise Detection and Attention-Based Fusion **(MICCAI2018)** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_9)]
 
 
-### 2016
+### Google Series
 
-- <a name="Google"></a> **[Google]** Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs **(JAMA2016)** [[paper](https://jamanetwork.com/journals/jama/fullarticle/2588763)]
+- <a name="Google"></a> **[Google 1]** Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs **(JAMA2016)** [[paper](https://jamanetwork.com/journals/jama/fullarticle/2588763)]
+- <a name="Google"></a> **[Google 2]** Grader Variability and the Importance of Reference Standards for Evaluating Machine Learning Models for Diabetic Retinopathy **(Ophthalmology2018)** [[paper](https://www.aaojournal.org/article/S0161-6420(17)32698-2/fulltext)]
+- <a name="Google"></a> **[Google 3]** Using a Deep Learning Algorithm and Integrated Gradients Explanation to Assist Grading for Diabetic Retinopathy **(Ophthalmology2018)** [[paper](https://www.aaojournal.org/article/S0161-6420(18)31575-6/fulltext)]
 
 
 ## Codes
