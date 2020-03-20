@@ -10,7 +10,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 | Dataset                   | Release time     | Images |  Format   |  Resolution |  FOV  |  Tasks |
 |---------------------------|------------------|--------|-----------|-------------|-------|--------|
-| [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | 50 | DR grading |
+| [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | 50 | DR grading |
 
 ## Papers
 
