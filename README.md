@@ -13,7 +13,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 |---------------------------|------------------|--------|-----------|----------|-------------|-------|------------| ----- |
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50 | EyePACS | DR grading |
 | [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) | 2018 | 516/81 | jpg | Kowa VX-10α | 4288*2848 | 50 | Center of Excellence in Signal and Image Processing | DR & DME grading / Typical DR lesions & optic disc annotation / Optic disc and fovea center location |
-| [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440*960,2240*1488,2304*1536 | 45 | ADCIS | DR & DME grading |
+| [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440*960 / 2240*1488 / 2304*1536 | 45 | ADCIS | DR & DME grading |
 
 ## Papers
 <!-- 
