@@ -27,6 +27,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Survey
 - <a name=""></a> Computerised approaches for the detection of diabetic retinopathy using retinal fundus images: a survey **(PAA2017)** [[Paper](https://link.springer.com/content/pdf/10.1007%2Fs10044-017-0630-y.pdf)]
+- <a name=""></a> Computer-aided diagnosis of diabetic retinopathy: A review **(CBM2013)** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482513002862)]
 
 ### 2019
 
