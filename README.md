@@ -26,7 +26,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
-- <a name=""></a> Computerised approaches for the detection of diabetic retinopathy using retinal fundus images: a survey **(PAA2017)** [[Paper](https://link.springer.com/content/pdf/10.1007%2Fs10044-017-0630-y.pdf)]
+- <a name=""></a> Computerised approaches for the detection of diabetic retinopathy using retinal fundus images: a survey **(PAA2017)** [[paper](https://link.springer.com/content/pdf/10.1007%2Fs10044-017-0630-y.pdf)]
 - <a name=""></a> Computer-aided diagnosis of diabetic retinopathy: A review **(CBM2013)** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482513002862)]
 
 ### 2019
@@ -35,7 +35,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name="CANet"></a> **[CANet]** CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading **(TMI2019)** [[paper](https://arxiv.org/abs/1911.01376)]
 
 
-### 2017
+### 2018
 
 - <a name="Zoom-in-Net"></a> **[Zoom-in-Net]** Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection **(MICCAI2018)** [[paper](https://arxiv.org/abs/1706.04372)]
 - <a name=""></a> A Framework for Identifying Diabetic Retinopathy Based on Anti-noise Detection and Attention-Based Fusion **(MICCAI2018)** [[paper](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_9)]
@@ -50,5 +50,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Codes
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
+- [[EyeNet](https://github.com/gregwchase/eyenet)] Identifying diabetic retinopathy using convolutional neural networks
 
 
