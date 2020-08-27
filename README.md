@@ -22,14 +22,26 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Papers
 <!-- 
-- <a name=""></a> title **(conference)** [[paper](cite)]
+- Unsupervised Visual Representation Learning by Context Prediction.
+  [[pdf]](https://arxiv.org/abs/1505.05192)
+  [[code]](http://graphics.cs.cmu.edu/projects/deepContext/)
+  - Doersch, Carl and Gupta, Abhinav and Efros, Alexei A. *ICCV 2015*
 -->
 
 ### Survey
-- <a name=""></a> IDRiD: Diabetic Retinopathy – Segmentation and Grading Challenge **(MIA)** [[paper](https://www.sciencedirect.com/science/article/pii/S1361841519301033)]
-- <a name=""></a> ISBI-2018 (IDRiD): Challenge Proceedings [[site](https://idrid.grand-challenge.org/Challenge_Proceedings/)]
-- <a name=""></a> Computerised approaches for the detection of diabetic retinopathy using retinal fundus images: a survey **(PAA2017)** [[paper](https://link.springer.com/content/pdf/10.1007%2Fs10044-017-0630-y.pdf)]
-- <a name=""></a> Computer-aided diagnosis of diabetic retinopathy: A review **(CBM2013)** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482513002862)]
+- IDRiD: Diabetic Retinopathy – Segmentation and Grading Challenge
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841519301033)
+  [[code]](https://idrid.grand-challenge.org/Challenge_Proceedings/)
+  - Prasanna Porwal, Samiksha Pachade, Manesh Kokare. *MIA 2015*
+  
+- Computerised approaches for the detection of diabetic retinopathy using retinal fundus images: a survey
+  [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs10044-017-0630-y.pdf)
+  - Toufique Ahmed Soomro, Junbin Gao, Tariq Khan. *Pattern Anal Applic 2017*
+  
+- Computer-aided diagnosis of diabetic retinopathy: A review
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0010482513002862)
+  - Muthu Rama Krishnan Mookiah, U. Rajendra Acharya, Chua Kuang Chua. *Computers in Biology and Medicine 2013*
+
 
 ### DR Grading
 - <a name=""></a> Collaborative learning of semi-supervised segmentation and classification for medical images **(CVPR2019)** [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)]
