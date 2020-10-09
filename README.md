@@ -51,6 +51,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 - CANet: Cross-disease Attention Network for Joint Diabetic Retinopathy and Diabetic Macular Edema Grading
   [[pdf]](https://arxiv.org/abs/1911.01376)
+  [[code]](https://github.com/xmengli999/CANet)
   - Xiaomeng Li, Xiaowei Hu, Lequan Yu. *TMI 2019*
   
 - Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection
