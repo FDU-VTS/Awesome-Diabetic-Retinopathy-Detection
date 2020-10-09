@@ -76,7 +76,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
   [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
-  - Ziyuan Zhao∗†, Kerui Zhang∗†, Xuejie Hao‡,Jing Tian†. *ICIP2019*
+  - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP2019*
   
 - SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
