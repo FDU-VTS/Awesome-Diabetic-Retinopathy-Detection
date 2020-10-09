@@ -14,6 +14,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50° | EyePACS | DR grading |
 | [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440x960,<br>2240x1488,<br>2304x1536 | 45° | ADCIS | DR & DME grading |
 | [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) | 2018 | 516/81 | jpg | Kowa VX-10α | 4288x2848 | 50° | CESIP | DR & DME grading / Typical DR lesions & optic disc detection / Optic disc and fovea center location |
+| [APTOS](https://www.kaggle.com/c/aptos2019-blindness-detection) | 2019 | 13k | png | / | / | / | / | DR grading |
 | [DIARETDB0](https://www.it.lut.fi/project/imageret/diaretdb0/index.html) | 2007 | 130 | jpg | / | 1500x1152 | 50° | / | DR lesions finding |
 | [DIARETDB1](https://www.it.lut.fi/project/imageret/diaretdb1/index.html) | 2007 | 89 | jpg | / | 1500x1152 | 50° | / | DR lesions detection |
 | [ROC](http://webeye.ophth.uiowa.edu/ROC/) | 2007 | 100 | jpg | / | 768×576,<br>1058x1061,<br>1386×1391 | 45° | / | Microaneurysms detection  |
@@ -72,7 +73,43 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.aaojournal.org/article/S0161-6420(18)31575-6/fulltext)
   - Rory Sayres, Ankur Taly, Ehsan Rahimy. *Ophthalmology 2018*
 
+- BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
+  [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
+  - Ziyuan Zhao∗†, Kerui Zhang∗†, Xuejie Hao‡,Jing Tian†. *ICIP2019*
+  
+- SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
+  -Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI2020* 
 
+### Segmentation
+- Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
+  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
+  - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI2019*
+  
+ - LESION-AWARE SEGMENTATION NETWORK FOR ATROPHY AND DETACHMENT OF PATHOLOGICAL MYOPIA ON FUNDUS IMAGES
+  [[pdf]](https://ieeexplore.ieee.org/document/9098669)
+  - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI2020*
+  
+- Attention Guided Network for Retinal Image Segmentation
+  [[pdf]](https://arxiv.org/pdf/1907.12930.pdf)
+  - Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI2019*
+
+- A coarse-to-fine deep learning framework for optic disc segmentationin fundus images
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809419300229?via%3Dihub)
+  - Wang, Lei，Liu, Han，Lu, Yaling，Chen, Hang，Zhang, Jian，Pu, Jiantao. *BSPC*
+  
+- DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets
+  [[pdf]](https://ieeexplore.ieee.org/document/9098673)
+  - Shujun Wang，Lequan Yu，Kang Li，Xin Yang，Pheng-Ann Heng. *TMI2019*
+  
+- Joint segmentation and classification of retinal arteries/veins from fundus images
+  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
+  - Fantin Girard, Conrad Kavalec, Farida Cheriet. *artmed*
+  
+- CE-Net: Context Encoder Network for 2D Medical Image Segmentation
+  [[pdf]](https://arxiv.org/pdf/1903.02740.pdf)
+  - Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao and Jiang Liu. *TMI2019*
+  
 ## Codes
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
