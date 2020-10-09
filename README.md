@@ -82,11 +82,15 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI2020* 
 
 ### Segmentation
+- Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
+  [[pdf]](https://arxiv.org/pdf/1801.00926.pdf)
+  - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI2017*
+
 - Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
   [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
   - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI2019*
   
- - LESION-AWARE SEGMENTATION NETWORK FOR ATROPHY AND DETACHMENT OF PATHOLOGICAL MYOPIA ON FUNDUS IMAGES
+- LESION-AWARE SEGMENTATION NETWORK FOR ATROPHY AND DETACHMENT OF PATHOLOGICAL MYOPIA ON FUNDUS IMAGES
   [[pdf]](https://ieeexplore.ieee.org/document/9098669)
   - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI2020*
   
@@ -109,6 +113,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - CE-Net: Context Encoder Network for 2D Medical Image Segmentation
   [[pdf]](https://arxiv.org/pdf/1903.02740.pdf)
   - Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao and Jiang Liu. *TMI2019*
+  
+ - Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation
+  [[pdf]](https://ieeexplore.ieee.org/document/9098673)
+  - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI2019*
+  
   
 ## Codes
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
