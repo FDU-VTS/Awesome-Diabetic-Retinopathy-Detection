@@ -114,7 +114,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/pdf/1903.02740.pdf)
   - Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao and Jiang Liu. *TMI2019*
   
- - Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation
+- Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
   - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI2019*
   
