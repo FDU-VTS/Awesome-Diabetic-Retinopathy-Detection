@@ -79,7 +79,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 - SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
-  -Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI2020* 
+  - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI2020* 
 
 ### Segmentation
 - Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
