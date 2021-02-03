@@ -30,6 +30,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
+- Applications of Deep Learning in Fundus Images: A Review
+  [[pdf]](https://arxiv.org/abs/2101.09864)
+  [[code]](https://github.com/nkicsl/Fundus_Review)
+  - Tao Li, Wang Bo, Chunyu Hu, Hong Kang, Hanruo Liu, Kai Wang, Huazhu Fu. *MIA 2021*
+
 - IDRiD: Diabetic Retinopathy – Segmentation and Grading Challenge
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841519301033)
   [[code]](https://idrid.grand-challenge.org/Challenge_Proceedings/)
@@ -124,5 +129,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
 - [[EyeNet](https://github.com/gregwchase/eyenet)] Identifying diabetic retinopathy using convolutional neural networks
-
 
