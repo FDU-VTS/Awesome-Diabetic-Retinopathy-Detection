@@ -50,6 +50,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### DR Grading
+
+- CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading
+  [[pdf]](https://ieeexplore.ieee.org/document/9195035/)
+  - Along He, Tao Li , Ning Li, Kai Wang, and Huazhu Fu. *TMI2020*
+  
 - Collaborative learning of semi-supervised segmentation and classification for medical images
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)
   - Yi Zhou, Xiaodong He, Lei Huang. *CVPR 2019*
