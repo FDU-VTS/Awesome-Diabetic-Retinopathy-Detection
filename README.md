@@ -60,7 +60,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading
   [[pdf]](https://ieeexplore.ieee.org/document/9195035/)
   [[code]](https://github.com/he2016012996/CABnet)
-  - Along He, Tao Li , Ning Li, Kai Wang, and Huazhu Fu. *TMI2020*
+  - Along He, Tao Li , Ning Li, Kai Wang, and Huazhu Fu. *TMI 2020*
   
 - Collaborative learning of semi-supervised segmentation and classification for medical images
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)
@@ -93,28 +93,28 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
   [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
-  - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP2019*
+  - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP 2019*
   
 - SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
-  - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI2020* 
+  - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI 2020* 
 
 ### Segmentation
 - Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
   [[pdf]](https://arxiv.org/pdf/1801.00926.pdf)
-  - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI2017*
+  - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI 2017*
 
 - Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
   [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
-  - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI2019*
+  - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI 2019*
   
 - LESION-AWARE SEGMENTATION NETWORK FOR ATROPHY AND DETACHMENT OF PATHOLOGICAL MYOPIA ON FUNDUS IMAGES
   [[pdf]](https://ieeexplore.ieee.org/document/9098669)
-  - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI2020*
+  - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI 2020*
   
 - Attention Guided Network for Retinal Image Segmentation
   [[pdf]](https://arxiv.org/pdf/1907.12930.pdf)
-  - Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI2019*
+  - Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI 2019*
 
 - A coarse-to-fine deep learning framework for optic disc segmentationin fundus images
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809419300229?via%3Dihub)
@@ -122,7 +122,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 - DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
-  - Shujun Wang，Lequan Yu，Kang Li，Xin Yang，Pheng-Ann Heng. *TMI2019*
+  - Shujun Wang，Lequan Yu，Kang Li，Xin Yang，Pheng-Ann Heng. *TMI 2019*
   
 - Joint segmentation and classification of retinal arteries/veins from fundus images
   [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
@@ -134,7 +134,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 - Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
-  - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI2019*
+  - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI 2019*
   
   
 ## Codes
