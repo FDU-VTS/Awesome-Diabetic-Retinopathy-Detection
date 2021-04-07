@@ -30,6 +30,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
+
 - Applications of Deep Learning in Fundus Images: A Review
   [[pdf]](https://arxiv.org/abs/2101.09864)
   [[code]](https://github.com/nkicsl/Fundus_Review)
@@ -50,6 +51,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### DR Grading
+
+- A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability
+  [[pdf]](https://arxiv.org/pdf/2008.09772.pdf)
+  [[code]](https://csyizhou.github.io/FGADR/)
+  - Yi Zhou, Boyang Wang, Lei Huang, Shanshan Cui, Ling Shao. *TMI 2020*
 
 - CABNet: Category Attention Block for Imbalanced Diabetic Retinopathy Grading
   [[pdf]](https://ieeexplore.ieee.org/document/9195035/)
