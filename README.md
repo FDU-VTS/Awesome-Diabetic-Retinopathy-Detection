@@ -52,6 +52,16 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### DR Grading
 
+- A deep learning system for detecting diabetic retinopathy across the disease spectrum
+  [[pdf]](https://www.nature.com/articles/s41467-021-23458-5?utm_source=other&utm_medium=other&utm_content=null)
+  [[code]](https://zenodo.org/badge/latestdoi/334570111)
+  - Ling Dai, Liang Wu, Huating Li, Chun Cai, Qiang Wu, et al. *Nature Communication 2021*
+
+
+- Multi-Task Learning for Diabetic Retinopathy Grading and Lesion Segmentation
+  [[pdf]](https://www.researchgate.net/publication/342540041_Multi-Task_Learning_for_Diabetic_Retinopathy_Grading_and_Lesion_Segmentation)
+  - Alex Foo, Wynne Hsu, Mong Li Lee, Gilbert Lim, Tien Yin Wong. *IAAI 2020*
+
 - A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability
   [[pdf]](https://arxiv.org/pdf/2008.09772.pdf)
   [[code]](https://csyizhou.github.io/FGADR/)
