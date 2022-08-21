@@ -11,6 +11,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 | Dataset                   | Time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
 |---------------------------|----------|--------|-----------|----------|-------------|-------|------------| ----- |
+| [DDR](https://github.com/nkicsl/DDR-dataset) | 2019 | 13673 | jpg | Topcon, Nikon, Canon | / | 45° | Nankai | DR grading / Lesion segmentation/detection |
+| [DeepDRiD](https://isbi.deepdr.org/index.html) | 2019 | 2256 | jpg | TOPCON | 1956×1934 | / | SDCSP | DR grading / Quality assessment|
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50° | EyePACS | DR grading |
 | [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff | Topcpn TRC NW6 | 1440x960,<br>2240x1488,<br>2304x1536 | 45° | ADCIS | DR & DME grading |
 | [IDRiD](https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid) | 2018 | 516/81 | jpg | Kowa VX-10α | 4288x2848 | 50° | CESIP | DR & DME grading / Typical DR lesions & optic disc detection / Optic disc and fovea center location |
