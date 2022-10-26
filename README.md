@@ -147,9 +147,22 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Patch-based Output Space Adversarial Learning for Joint Optic Disc and Cup Segmentation
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
   - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI 2019*
-  
-  
-  
+
+
+### Multi-modal 
+#### CF & OCT B-scan
+
+- Multi-Modal Multi-Instance Learning for Retinal Disease Recognition
+  [[pdf]](https://arxiv.org/abs/2109.12307)
+  - Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen. *ACM MM 2021*
+- Multi-Modal Retinal Image Classification With Modality-Specific Attention Network
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9363019/)
+  - Xingxin He, Ying Deng, Leyang Fang, Qinghua Peng. *TMI 2021*
+- Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization
+  [[pdf]](https://arxiv.org/pdf/1907.12023.pdf)
+  * Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.
+  *MICCAI 2019*
+ 
 ## Codes
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
