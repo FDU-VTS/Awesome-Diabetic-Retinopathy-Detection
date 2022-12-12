@@ -32,7 +32,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
-
+- Deep learning techniques for diabetic retinopathy classification: A survey
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9729867)
+  - Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
+  
 - Applications of Deep Learning in Fundus Images: A Review
   [[pdf]](https://arxiv.org/abs/2101.09864)
   [[code]](https://github.com/nkicsl/Fundus_Review)
@@ -53,12 +56,37 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### DR Grading
+- Focused Attention in Transformers for interpretable classification of retinal images
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522002377)
+  [[code]](https://github.com/ClementPla/FocusedAttention)
+  - Clément Playout, Renaud Duval, Marie Carole Boucher, Farida Cheriet. *MIA 2022*
+  
+- SatFormer: Saliency-Guided Abnormality-Aware Transformer for Retinal Disease Classification in Fundus Image
+  [[pdf]](https://www.ijcai.org/proceedings/2022/0138.pdf)
+  - Yankai Jiang, Ke Xu, Xinyue Wang, Yuan Li, Hongguang Cui, Yubo Tao, Hai Lin. *IJCAI 2022*
 
+- SSiT: Saliency-guided Self-supervised Image Transformer for Diabetic Retinopathy Grading
+  [[pdf]](https://arxiv.org/pdf/2210.10969.pdf)
+  [[code]](https://github.com/YijinHuang/SSiT)
+  - Yijin Huang, Junyan Lyu, Pujin Cheng, Roger Tam, Xiaoying Tang. *arXiv preprint 2022.10.20*
+  
+- MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
+  [[code]](https://github.com/greentreeys/MIL-VT)
+  - Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng. *MICCAI 2021*
+  
+- Lesion-aware transformers for diabetic retinopathy grading
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)
+  - Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang. *CVPR 2021*
+  
+- Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
+  - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
+  
 - A deep learning system for detecting diabetic retinopathy across the disease spectrum
   [[pdf]](https://www.nature.com/articles/s41467-021-23458-5?utm_source=other&utm_medium=other&utm_content=null)
   [[code]](https://zenodo.org/badge/latestdoi/334570111)
   - Ling Dai, Liang Wu, Huating Li, Chun Cai, Qiang Wu, et al. *Nature Communication 2021*
-
 
 - Multi-Task Learning for Diabetic Retinopathy Grading and Lesion Segmentation
   [[pdf]](https://www.researchgate.net/publication/342540041_Multi-Task_Learning_for_Diabetic_Retinopathy_Grading_and_Lesion_Segmentation)
@@ -112,6 +140,27 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI 2020* 
 
 ### Segmentation
+- Progressive Multiscale Consistent Network for Multiclass Fundus Lesion Segmentation
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9781413)
+  - Along He, Kai Wang, Tao Li, Wang Bo, Hong Kang, Huazhu Fu. *TMI 2022*
+  
+- RTNet: Relation transformer network for diabetic retinopathy multi-lesion segmentation
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9684442)
+  - Shiqi Huang, Jianan Li, Yuze Xiao, Ning Shen, Tingfa Xu. *TMI 2022*
+  
+- SAA: Scale-Aware Attention Block For Multi-Lesion Segmentation Of Fundus Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9761529)
+  - Wang Bo, Tao Li, Xinhui Liu, Kai Wang. *ISBI 2022*
+
+- Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
+  - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
+
+- L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
+  [[code]](https://github.com/guomugong/L-Seg)
+  - SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
+
 - Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
   [[pdf]](https://arxiv.org/pdf/1801.00926.pdf)
   - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI 2017*
