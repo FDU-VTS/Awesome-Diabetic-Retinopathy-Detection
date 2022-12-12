@@ -56,6 +56,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### DR Grading
+
+**2022**
+
 - Focused Attention in Transformers for interpretable classification of retinal images
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522002377)
   [[code]](https://github.com/ClementPla/FocusedAttention)
@@ -69,7 +72,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/pdf/2210.10969.pdf)
   [[code]](https://github.com/YijinHuang/SSiT)
   - Yijin Huang, Junyan Lyu, Pujin Cheng, Roger Tam, Xiaoying Tang. *arXiv preprint 2022.10.20*
-  
+
+**2021**
+
 - MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
   [[code]](https://github.com/greentreeys/MIL-VT)
@@ -78,7 +83,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Lesion-aware transformers for diabetic retinopathy grading
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)
   - Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang. *CVPR 2021*
-  
+
 - Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
   - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
@@ -87,6 +92,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.nature.com/articles/s41467-021-23458-5?utm_source=other&utm_medium=other&utm_content=null)
   [[code]](https://zenodo.org/badge/latestdoi/334570111)
   - Ling Dai, Liang Wu, Huating Li, Chun Cai, Qiang Wu, et al. *Nature Communication 2021*
+
+**2020**
 
 - Multi-Task Learning for Diabetic Retinopathy Grading and Lesion Segmentation
   [[pdf]](https://www.researchgate.net/publication/342540041_Multi-Task_Learning_for_Diabetic_Retinopathy_Grading_and_Lesion_Segmentation)
@@ -102,6 +109,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/he2016012996/CABnet)
   - Along He, Tao Li , Ning Li, Kai Wang, and Huazhu Fu. *TMI 2020*
   
+- SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
+  - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI 2020* 
+  
+**2019**
+
 - Collaborative learning of semi-supervised segmentation and classification for medical images
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Collaborative_Learning_of_Semi-Supervised_Segmentation_and_Classification_for_Medical_Images_CVPR_2019_paper.pdf)
   - Yi Zhou, Xiaodong He, Lei Huang. *CVPR 2019*
@@ -110,7 +123,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/abs/1911.01376)
   [[code]](https://github.com/xmengli999/CANet)
   - Xiaomeng Li, Xiaowei Hu, Lequan Yu. *TMI 2019*
+
+- BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
+  [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
+  - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP 2019*
   
+**2018**
+
 - Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection
   [[pdf]](https://arxiv.org/abs/1706.04372)
   - Zhe Wang, Yanxin Yin, Jianping Shi. *MICCAI 2018*
@@ -118,10 +137,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - A Framework for Identifying Diabetic Retinopathy Based on Anti-noise Detection and Attention-Based Fusion
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_9)
   - Zhiwen Lin, Ruoqian Guo, Yanjie Wang. *MICCAI 2018*
-
-- Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs 
-  [[pdf]](https://jamanetwork.com/journals/jama/fullarticle/2588763)
-  - Varun Gulshan, Lily Peng, Marc Coram. *JAMA 2016*
 
 - Grader Variability and the Importance of Reference Standards for Evaluating Machine Learning Models for Diabetic Retinopathy
   [[pdf]](https://www.aaojournal.org/article/S0161-6420(17)32698-2/fulltext)
@@ -131,15 +146,17 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.aaojournal.org/article/S0161-6420(18)31575-6/fulltext)
   - Rory Sayres, Ankur Taly, Ehsan Rahimy. *Ophthalmology 2018*
 
-- BIRA-NET: BILINEAR ATTENTION NET FOR DIABETIC RETINOPATHY GRADING
-  [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
-  - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP 2019*
-  
-- SUNET: A LESION REGULARIZED MODEL FOR SIMULTANEOUS DIABETIC RETINOPATHY AND DIABETIC MACULAR EDEMA GRADING
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
-  - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI 2020* 
+**2016**
+
+- Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs 
+  [[pdf]](https://jamanetwork.com/journals/jama/fullarticle/2588763)
+  - Varun Gulshan, Lily Peng, Marc Coram. *JAMA 2016*
+
 
 ### Segmentation
+
+**2022**
+
 - Progressive Multiscale Consistent Network for Multiclass Fundus Lesion Segmentation
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9781413)
   - Along He, Kai Wang, Tao Li, Wang Bo, Hong Kang, Huazhu Fu. *TMI 2022*
@@ -152,43 +169,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9761529)
   - Wang Bo, Tao Li, Xinhui Liu, Kai Wang. *ISBI 2022*
 
-- Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
-  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
-  - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
+**2020**
 
-- L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
-  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
-  [[code]](https://github.com/guomugong/L-Seg)
-  - SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
-
-- Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
-  [[pdf]](https://arxiv.org/pdf/1801.00926.pdf)
-  - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI 2017*
-
-- Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
-  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
-  - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI 2019*
-  
 - LESION-AWARE SEGMENTATION NETWORK FOR ATROPHY AND DETACHMENT OF PATHOLOGICAL MYOPIA ON FUNDUS IMAGES
   [[pdf]](https://ieeexplore.ieee.org/document/9098669)
   - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI 2020*
   
-- Attention Guided Network for Retinal Image Segmentation
-  [[pdf]](https://arxiv.org/pdf/1907.12930.pdf)
-  - Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI 2019*
+**2021**
 
-- A coarse-to-fine deep learning framework for optic disc segmentationin fundus images
-  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809419300229?via%3Dihub)
-  - Wang, Lei，Liu, Han，Lu, Yaling，Chen, Hang，Zhang, Jian，Pu, Jiantao. *BSPC*
-  
+- Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
+  - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
+
+**2019**
+
 - DoFE: Domain-oriented Feature Embedding for Generalizable Fundus Image Segmentation on Unseen Datasets
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
   - Shujun Wang，Lequan Yu，Kang Li，Xin Yang，Pheng-Ann Heng. *TMI 2019*
-  
-- Joint segmentation and classification of retinal arteries/veins from fundus images
-  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
-  - Fantin Girard, Conrad Kavalec, Farida Cheriet. *artmed*
-  
+
 - CE-Net: Context Encoder Network for 2D Medical Image Segmentation
   [[pdf]](https://arxiv.org/pdf/1903.02740.pdf)
   - Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao and Jiang Liu. *TMI2019*
@@ -197,19 +195,49 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/document/9098673)
   - Shujun Wang, Lequan Yu, Xin Yang, Chi-Wing Fu, Pheng-Ann Heng. *TMI 2019*
 
+- Boundary and Entropy-driven Adversarial Learning for Fundus Image Segmentation
+  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
+  - Shujun Wang1, Lequan Yu, Kang Li, Xin Yang, Chi-Wing Fu1, Pheng-Ann Heng. *MICCAI 2019*
+
+- Attention Guided Network for Retinal Image Segmentation
+  [[pdf]](https://arxiv.org/pdf/1907.12930.pdf)
+  - Zhang, Shihao，Fu, Huazhu，Yan, Yuguang，Zhang, Yubing，Wu, Qingyao，Yang, Ming，Tan, Mingkui，Xu, Yanwu. *MICCAI 2019*
+
+- L-Seg: An end-to-end unified framework for multi-lesion segmentation of fundus images
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
+  [[code]](https://github.com/guomugong/L-Seg)
+  - SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
+ 
+- Joint segmentation and classification of retinal arteries/veins from fundus images
+  [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
+  - Fantin Girard, Conrad Kavalec, Farida Cheriet. *artmed 2019*
+  
+- A coarse-to-fine deep learning framework for optic disc segmentationin fundus images
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809419300229?via%3Dihub)
+  - Wang, Lei，Liu, Han，Lu, Yaling，Chen, Hang，Zhang, Jian，Pu, Jiantao. *BSPC 2019*
+  
+**2017**
+
+- Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
+  [[pdf]](https://arxiv.org/pdf/1801.00926.pdf)
+  - Huazhu Fu, Jun Cheng, Yanwu Xu, Damon Wing Kee Wong, Jiang Liu, and Xiaochun Cao. *TMI 2017*
+
+
 
 ### Multi-modal 
-#### CF & OCT B-scan
+**CF & OCT B-scan**
 
 - Multi-Modal Multi-Instance Learning for Retinal Disease Recognition
   [[pdf]](https://arxiv.org/abs/2109.12307)
   - Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen. *ACM MM 2021*
+  
 - Multi-Modal Retinal Image Classification With Modality-Specific Attention Network
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9363019/)
   - Xingxin He, Ying Deng, Leyang Fang, Qinghua Peng. *TMI 2021*
+  
 - Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization
   [[pdf]](https://arxiv.org/pdf/1907.12023.pdf)
-  * Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.
+  - Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.
   *MICCAI 2019*
  
 ## Codes
