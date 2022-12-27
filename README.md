@@ -75,6 +75,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2021**
 
+- MVDRNet: Multi-view diabetic retinopathy detection by combining DCNNs and attention mechanisms
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320321002910)
+  - Xiaoling Luo, Zuhui Pu, Yong Xu, Wai Keung Wong, Jingyong Su, Xiaoyan Dou, Baikang Ye, Jiying Hu, Lisha Mou. *PR 2021*
+
+
 - MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
   [[code]](https://github.com/greentreeys/MIL-VT)
