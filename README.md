@@ -59,6 +59,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2022**
 
+- Image Quality Assessment Guided Collaborative Learning of image enhancement and classification for Diabetic Retinopathy Grading
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9997504)
+  - Qingshan Hou; Peng Cao; Liyu Jia; Leqi Chen; Jinzhu Yang; Osmar R. Zaiane. *JBHI 2022*
+
 - Focused Attention in Transformers for interpretable classification of retinal images
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841522002377)
   [[code]](https://github.com/ClementPla/FocusedAttention)
