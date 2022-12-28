@@ -184,11 +184,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/document/9098669)
   - Yan Guo, Rui Wang, Xia Zhou, Yang Liu, Lilong Wang. *ISBI 2020*
   
-**2021**
-
-- Deep Multi-Task Learning for Diabetic Retinopathy Grading in Fundus Images
-  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/16388)
-  - Xiaofei Wang, Mai Xu, Jicong Zhang, Lai Jiang, Liu Li. *AAAI 2021*
 
 **2019**
 
