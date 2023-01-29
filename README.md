@@ -11,6 +11,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 | Dataset                   | Time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
 |---------------------------|----------|--------|-----------|----------|-------------|-------|------------| ----- |
+| [DRTiD](https://github.com/FDU-VTS/DRTiD) | 2022 | 3100 | jpg | / | / | Two-field 45° | FDU | DR grading / localization |
+| [FGADR](https://csyizhou.github.io/FGADR/) | 2021| 2842 | / | / | / | / | IIAI | DR grading / Lesion segmentation |
 | [DDR](https://github.com/nkicsl/DDR-dataset) | 2019 | 13673 | jpg | Topcon, Nikon, Canon | / | 45° | Nankai | DR grading / Lesion segmentation/detection |
 | [DeepDRiD](https://isbi.deepdr.org/index.html) | 2019 | 2256 | jpg | TOPCON | 1956×1934 | / | SDCSP | DR grading / Quality assessment|
 | [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg | / | / | 50° | EyePACS | DR grading |
@@ -59,6 +61,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2022**
 
+- Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images 
+  [[pdf]](https://arxiv.org/pdf/2211.14552)
+  [[code]](https://github.com/FDU-VTS/DRTiD)
+  - Junlin Hou, Jilan Xu, Fan Xiao, Rui-Wei Zhao, Yuejie Zhang, Haidong Zou, Lina Lu, Wenwen Xue, Rui Feng. *BIBM 2022*
+  
 - Image Quality Assessment Guided Collaborative Learning of image enhancement and classification for Diabetic Retinopathy Grading
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9997504)
   - Qingshan Hou; Peng Cao; Liyu Jia; Leqi Chen; Jinzhu Yang; Osmar R. Zaiane. *JBHI 2022*
