@@ -96,6 +96,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/greentreeys/MIL-VT)
   - Shuang Yu, Kai Ma, Qi Bi, Cheng Bian, Munan Ning, Nanjun He, Yuexiang Li, Hanruo Liu, Yefeng Zheng. *MICCAI 2021*
   
+- Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images
+  [[pdf]](https://arxiv.org/abs/2107.08274)
+  [[code]](https://github.com/YijinHuang/Lesion-based-Contrastive-Learning)
+  
 - Lesion-aware transformers for diabetic retinopathy grading
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)
   - Rui Sun, Yihao Li, Tianzhu Zhang, Zhendong Mao, Feng Wu, Yongdong Zhang. *CVPR 2021*
@@ -252,6 +256,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
   *MICCAI 2019*
  
 ## Codes
+
+- [[EyePACS](https://github.com/YijinHuang/pytorch-classification)] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
+
 - [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
 
 - [[EyeNet](https://github.com/gregwchase/eyenet)] Identifying diabetic retinopathy using convolutional neural networks
