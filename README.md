@@ -99,6 +99,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Lesion-Based Contrastive Learning for Diabetic Retinopathy Grading from Fundus Images
   [[pdf]](https://arxiv.org/abs/2107.08274)
   [[code]](https://github.com/YijinHuang/Lesion-based-Contrastive-Learning)
+  - Yijin Huang, Li Lin, Pujin Cheng, Junyan Lyu, Xiaoying Tang. *MICCAI 2021*
   
 - Lesion-aware transformers for diabetic retinopathy grading
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/html/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.html)
