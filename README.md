@@ -253,9 +253,60 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 - Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization
   [[pdf]](https://arxiv.org/pdf/1907.12023.pdf)
-  - Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li.
-  *MICCAI 2019*
+  - Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li. *MICCAI 2019*
  
+ 
+ 
+### Fundus Image Enhancement
+
+**2023**
+
+- Bridging Synthetic and Real Images: a Transferable and Multiple Consistency aided Fundus Image Enhancement Framework
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10049997/)
+  - Erjian Guo, Huazhu Fu, Luping Zhou, Dong Xu. *TMI 2023*
+  
+- Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement
+  [[pdf]](https://arxiv.org/abs/2303.04603)
+  [[code]](https://github.com/QtacierP/LED)
+  - Puijin Cheng, Li Lin, Yijin Huang, Huaqing He, Wenhan Luo, Xiaoying Tang.
+  
+- Self-supervised Domain Adaptation for Breaking the Limits of Low-quality Fundus Image Quality Enhancement
+  [[pdf]](https://arxiv.org/abs/2301.06943)
+  - Qingshan Hou, Peng Cao, Jiaqi Wang, Xiaoli Liu, Jinzhu Yang, Osmar R. Zaiane.
+
+**2022**
+
+- Image Quality Assessment Guided Collaborative Learning of Image Enhancement and Classification for Diabetic Retinopathy Grading
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9997504)
+  - Qingshan Hou, Peng Cao, Liyu Jia, Leqi Chen, Jinzhu Yang, Osmar R. Zaiane. *JBHI 2022*
+  
+- Degradation-invariant Enhancement of Fundus Images via Pyramid Constraint Network
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_49)
+  [[code]](https://github.com/HeverLaw/PCENet-Image-Enhancement)
+  - Haofeng Liu, Heng Li, Huazhu Fu, Ruoxiu Xiao, Yunshu Gao, Yan Hu, Jiang Liu. *MICCAI 2022*
+  
+- Structure-Consistent Restoration Network for Cataract Fundus Image Enhancement
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_47)
+  [[code]](https://github.com/liamheng/ArcNet-Medical-Image-Enhancement)
+  - Heng Li, Haofeng Liu, Huazhu Fu, Hai Shu, Yitian Zhao, Xiaoling Luo, Yan Hu, Jiang Liu. *MICCAI 2022*
+  
+- DOMAIN GENERALIZATION IN RESTORATION OF CATARACT FUNDUS IMAGES VIA HIGH-FREQUENCY COMPONENTS
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9761606/)
+  [[code]](https://github.com/HeverLaw/Restoration-of-Cataract-Images-via-Domain-Generalization)
+  - Haofeng Liu, Heng Li, Mingyang Ou, Yitian Zhao, Hong Qi, Yan Hu, Jiang Liu. *ISBI 2022*
+ 
+- An Annotation-Free Restoration Network for Cataractous Fundus Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9698071/)
+  [[code]](https://github.com/liamheng/Annotation-free-Fundus-Image-Enhancement)
+  - Heng Li, Haofeng Liu, Yan Hu, Huazhu Fu, Yitian Zhao, Hanpei Miao, Jiang Liu. *TMI 2022*
+
+**2021**
+- I-SECRET: Importance-Guided Fundus Image Enhancement via Semi-supervised Contrastive Constraining
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_9)
+  [[code]](https://github.com/QtacierP/ISECRET)
+  - Pujin Cheng, Li Lin, Yijin Huang, Junyan Lyu, Xiaoying Tang. *MICCAI 2021*
+  
+
 ## Codes
 
 - [[EyePACS](https://github.com/YijinHuang/pytorch-classification)] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
