@@ -84,12 +84,20 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/YijinHuang/SSiT)
   - Yijin Huang, Junyan Lyu, Pujin Cheng, Roger Tam, Xiaoying Tang. *arXiv preprint 2022.10.20*
 
+- Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification
+  [[pdf]](https://arxiv.org/abs/2203.04614)
+  - Zhiyuan Cai, Li Lin, Huaqing He, Xiaoying Tang. *MICCAI 2022*
+  
 **2021**
+
+- Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
+  [[pdf]](https://ieeexplore.ieee.org/document/9411868)
+  [[code]](https://github.com/xmengli/Rotation-oriented-self-supervised)
+  - Xiaomeng Li, Xiaowei Hu, Xiaojuan Qi, Lequan Yu, Wei Zhao, Pheng-Ann Heng, Lei Xing. *TMI 2021*
 
 - MVDRNet: Multi-view diabetic retinopathy detection by combining DCNNs and attention mechanisms
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320321002910)
   - Xiaoling Luo, Zuhui Pu, Yong Xu, Wai Keung Wong, Jingyong Su, Xiaoyan Dou, Baikang Ye, Jiying Hu, Lisha Mou. *PR 2021*
-
 
 - MIL-VT: Multiple Instance Learning Enhanced Vision Transformer for Fundus Image Classification
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_5)
@@ -116,6 +124,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 **2020**
 
+- Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9139411)
+  [[code]](https://github.com/xmengli/self_supervised)
+  - Xiaomeng Li, Mengyu Jia, Md Tauhidul Islam, Lequan Yu, and Lei Xing *TMI 2020*
+  
 - Multi-Task Learning for Diabetic Retinopathy Grading and Lesion Segmentation
   [[pdf]](https://www.researchgate.net/publication/342540041_Multi-Task_Learning_for_Diabetic_Retinopathy_Grading_and_Lesion_Segmentation)
   - Alex Foo, Wynne Hsu, Mong Li Lee, Gilbert Lim, Tien Yin Wong. *IAAI 2020*
