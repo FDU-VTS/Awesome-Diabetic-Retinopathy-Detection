@@ -59,18 +59,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### DR Grading
 
-**2023**
-
-- Image Quality-aware Diagnosis via Meta-knowledge Co-embedding
-  [[pdf]](https://arxiv.org/abs/2303.15038)
-  [[code]](https://github.com/chehx/MKCNet)
-  - Haoxuan Che, Siyu Chen, Hao Chen. *CVPR 2023*
-
-- Towards Generalizable Diabetic Retinopathy Grading in Unseen Domains
-  [[pdf]](https://arxiv.org/abs/2307.04378)
-  [[code]](https://github.com/chehx/DGDR)
-  - Haoxuan Che, Yuhan Cheng, Haibo Jin, Hao Chen. *MICCAI 2023*
-
 **2022**
 
 - Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images 
@@ -99,15 +87,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Uni4Eye: Unified 2D and 3D Self-supervised Pre-training via Masked Image Modeling Transformer for Ophthalmic Image Classification
   [[pdf]](https://arxiv.org/abs/2203.04614)
   - Zhiyuan Cai, Li Lin, Huaqing He, Xiaoying Tang. *MICCAI 2022*
-
-- DRGen: Domain Generalization in Diabetic Retinopathy Classification
-  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_61)
-  - Mohammad Atwany, Mohammad Yaqub. *MICCAI 2022*
-
--  Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement
-  [[pdf]](https://arxiv.org/abs/2207.04183)
-  - Haoxuan Che, Haibo Jin, Hao Chen. *MICCAI 2022*
-
+  
 **2021**
 
 - Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
