@@ -104,7 +104,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_61)
   - Mohammad Atwany, Mohammad Yaqub. *MICCAI 2022*
 
--  Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement
+- Learning Robust Representation for Joint Grading of Ophthalmic Diseases via Adaptive Curriculum and Feature Disentanglement
   [[pdf]](https://arxiv.org/abs/2207.04183)
   - Haoxuan Che, Haibo Jin, Hao Chen. *MICCAI 2022*
 
