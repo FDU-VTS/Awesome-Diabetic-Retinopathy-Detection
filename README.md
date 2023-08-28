@@ -35,6 +35,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
+- DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images
+  [[pdf]](https://arxiv.org/pdf/2304.02389.pdf)
+  - Bo Qian, Hao Chen, Xiangning Wang, Haoxuan Che, Gitaek Kwon, Jaeyoung Kim, Sungjin Choi, Seoyoung Shin, Felix Krause, Markus Unterdechler, et al. *arxiv 2023*
+
 - Deep learning techniques for diabetic retinopathy classification: A survey
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9729867)
   - Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
@@ -71,6 +75,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/abs/2307.04378)
   [[code]](https://github.com/chehx/DGDR)
   - Haoxuan Che, Yuhan Cheng, Haibo Jin, Hao Chen. *MICCAI 2023*
+
+- Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095713)
+  [[code]](https://github.com/FDU-VTS/LANet)
+  - Junlin Hou, Fan Xiao, Jilan Xu, Rui Feng, Yuejie Zhang, Haidong Zou, Lina Lu, Wenwen Xue. *ICASSP 2023*
+
 
 **2022**
 
