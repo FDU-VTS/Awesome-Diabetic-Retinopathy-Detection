@@ -81,7 +81,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/FDU-VTS/LANet)
   - Junlin Hou, Fan Xiao, Jilan Xu, Rui Feng, Yuejie Zhang, Haidong Zou, Lina Lu, Wenwen Xue. *ICASSP 2023*
 
-
 **2022**
 
 - Cross-Field Transformer for Diabetic Retinopathy Grading on Two-field Fundus Images 
@@ -178,6 +177,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9098673)
   - Zhi Tu, Shenghua Gao, Kang Zhou, Xianing Chen, Jiang Liu. *ISBI 2020* 
   
+
 **2019**
 
 - Collaborative learning of semi-supervised segmentation and classification for medical images
@@ -193,6 +193,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/pdf/1905.06312.pdf)
   - Ziyuan Zhao, Kerui Zhang, Xuejie Hao, Jing Tian. *ICIP 2019*
   
+
 **2018**
 
 - Zoom-in-Net: Deep Mining Lesions for Diabetic Retinopathy Detection
@@ -267,7 +268,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231219305430)
   [[code]](https://github.com/guomugong/L-Seg)
   - SongGuo, TaoLi, HongKang, NingLi, YujunZhang, KaiWang. *Neurocomputing 2019*
- 
+
 - Joint segmentation and classification of retinal arteries/veins from fundus images
   [[pdf]](https://pubmed.ncbi.nlm.nih.gov/30871687/)
   - Fantin Girard, Conrad Kavalec, Farida Cheriet. *artmed 2019*
@@ -276,6 +277,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809419300229?via%3Dihub)
   - Wang, Lei，Liu, Han，Lu, Yaling，Chen, Hang，Zhang, Jian，Pu, Jiantao. *BSPC 2019*
   
+
 **2017**
 
 - Joint Optic Disc and Cup Segmentation Based on Multi-label Deep Network and Polar Transformation
@@ -298,24 +300,39 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Two-Stream CNN with Loose Pair Training for Multi-modal AMD Categorization
   [[pdf]](https://arxiv.org/pdf/1907.12023.pdf)
   - Weisen Wang, Zhiyan Xu, Weihong Yu, Jianchun Zhao, Jingyuan Yang, Feng He, Zhikun Yang, Di Chen, Dayong Ding, Youxin Chen, Xirong Li. *MICCAI 2019*
+
  
- 
- 
+
 ### Fundus Image Enhancement
 
 **2023**
 
+- OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing
+  [[pdf]](https://arxiv.org/abs/2302.03003)
+  [[code]](https://github.com/Retinal-Research/OTRE)
+
+  - Wenhui Zhu, Peijie Qiu, Oana M. Dumitrascu, Jacob M. Sobczak, Mohammad Farazi, Zhangsihao Yang, Keshav Nandakumar, Yalin Wang. *IPMI. 2023*
+
+- Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images
+  [[pdf]](https://arxiv.org/abs/2302.02991)
+  [[code]](https://github.com/retinal-research/ote-gan)
+
+  - Wenhui Zhu, Peijie Qiu, Mohammad Farazi, Keshav Nandakumar, Oana M. Dumitrascu, Yalin Wang. *IEEE ISBI 2023*
+
 - Bridging Synthetic and Real Images: a Transferable and Multiple Consistency aided Fundus Image Enhancement Framework
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10049997/)
+  
   - Erjian Guo, Huazhu Fu, Luping Zhou, Dong Xu. *TMI 2023*
   
 - Learning Enhancement From Degradation: A Diffusion Model For Fundus Image Enhancement
   [[pdf]](https://arxiv.org/abs/2303.04603)
   [[code]](https://github.com/QtacierP/LED)
+  
   - Puijin Cheng, Li Lin, Yijin Huang, Huaqing He, Wenhan Luo, Xiaoying Tang.
   
 - Self-supervised Domain Adaptation for Breaking the Limits of Low-quality Fundus Image Quality Enhancement
   [[pdf]](https://arxiv.org/abs/2301.06943)
+  
   - Qingshan Hou, Peng Cao, Jiaqi Wang, Xiaoli Liu, Jinzhu Yang, Osmar R. Zaiane.
 
 **2022**
@@ -338,7 +355,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9761606/)
   [[code]](https://github.com/HeverLaw/Restoration-of-Cataract-Images-via-Domain-Generalization)
   - Haofeng Liu, Heng Li, Mingyang Ou, Yitian Zhao, Hong Qi, Yan Hu, Jiang Liu. *ISBI 2022*
- 
+
 - An Annotation-Free Restoration Network for Cataractous Fundus Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9698071/)
   [[code]](https://github.com/liamheng/Annotation-free-Fundus-Image-Enhancement)
