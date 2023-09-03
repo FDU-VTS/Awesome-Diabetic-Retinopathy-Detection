@@ -308,14 +308,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 **2023**
 
 - OTRE: Where Optimal Transport Guided Unpaired Image-to-Image Translation Meets Regularization by Enhancing
-  [[pdf]](https://arxiv.org/abs/2302.03003)
-  [[code]](https://github.com/Retinal-Research/OTRE)
+  [[pdf]](https://arxiv.org/abs/2302.03003)
+  [[code]](https://github.com/Retinal-Research/OTRE)
 
   - Wenhui Zhu, Peijie Qiu, Oana M. Dumitrascu, Jacob M. Sobczak, Mohammad Farazi, Zhangsihao Yang, Keshav Nandakumar, Yalin Wang. *IPMI. 2023*
 
 - Optimal Transport Guided Unsupervised Learning for Enhancing low-quality Retinal Images
-  [[pdf]](https://arxiv.org/abs/2302.02991)
-  [[code]](https://github.com/retinal-research/ote-gan)
+  [[pdf]](https://arxiv.org/abs/2302.02991)
+  [[code]](https://github.com/retinal-research/ote-gan)
 
   - Wenhui Zhu, Peijie Qiu, Mohammad Farazi, Keshav Nandakumar, Oana M. Dumitrascu, Yalin Wang. *IEEE ISBI 2023*
 
