@@ -67,6 +67,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 **2023**
 - A foundation model for generalizable disease detection from retinal images
   [[pdf]](https://www.nature.com/articles/s41586-023-06555-x)
+  [[code]](https://github.com/rmaphoh/RETFound_MAE)
   - Yukun Zhou, et al. **Nature 2023**
 
 - Image Quality-aware Diagnosis via Meta-knowledge Co-embedding
