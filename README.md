@@ -35,10 +35,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 -->
 
 ### Survey
-- DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images
-  [[pdf]](https://arxiv.org/pdf/2304.02389.pdf)
-  - Bo Qian, Hao Chen, Xiangning Wang, Haoxuan Che, Gitaek Kwon, Jaeyoung Kim, Sungjin Choi, Seoyoung Shin, Felix Krause, Markus Unterdechler, et al. *arxiv 2023*
-
 - Deep learning techniques for diabetic retinopathy classification: A survey
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9729867)
   - Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
@@ -69,6 +65,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.nature.com/articles/s41586-023-06555-x)
   [[code]](https://github.com/rmaphoh/RETFound_MAE)
   - Yukun Zhou, et al. **Nature 2023**
+    
+- DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images
+  [[pdf]](https://arxiv.org/pdf/2304.02389.pdf)
+  - Bo Qian, Hao Chen, Xiangning Wang, Haoxuan Che, Gitaek Kwon, Jaeyoung Kim, Sungjin Choi, Seoyoung Shin, Felix Krause, Markus Unterdechler, et al. *arxiv 2023*
 
 - Image Quality-aware Diagnosis via Meta-knowledge Co-embedding
   [[pdf]](https://arxiv.org/abs/2303.15038)
@@ -91,6 +91,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/pdf/2211.14552)
   [[code]](https://github.com/FDU-VTS/DRTiD)
   - Junlin Hou, Jilan Xu, Fan Xiao, Rui-Wei Zhao, Yuejie Zhang, Haidong Zou, Lina Lu, Wenwen Xue, Rui Feng. *BIBM 2022*
+    
+- Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images
+  [[pdf]](https://arxiv.org/pdf/2210.00515.pdf)
+  [[code]](https://github.com/FDU-VTS/DRAC)
+  - Junlin Hou, Fan Xiao, Jilan Xu, Yuejie Zhang, Haidong Zou, Rui Feng. *MICCAI Challenge 2022*
   
 - Image Quality Assessment Guided Collaborative Learning of image enhancement and classification for Diabetic Retinopathy Grading
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9997504)
