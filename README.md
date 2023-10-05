@@ -5,7 +5,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Contents
 * [Datasets](#datasets)
 * [Papers](#papers)
-* [Codes](#codes)
+  * [Survey](#survey)
+  * [Grading](#grading)
+  * [Segmentation](#segmentation)
+  * [Multimodal](#multimodal)
+  * [Enhancement](#enhancement)
+* [Projects](#projects)
 
 ## Datasets
 
@@ -58,13 +63,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Muthu Rama Krishnan Mookiah, U. Rajendra Acharya, Chua Kuang Chua. *Computers in Biology and Medicine 2013*
 
 
-### DR Grading
+### Grading
 
 **2023**
 - A foundation model for generalizable disease detection from retinal images
   [[pdf]](https://www.nature.com/articles/s41586-023-06555-x)
   [[code]](https://github.com/rmaphoh/RETFound_MAE)
-  - Yukun Zhou, et al. **Nature 2023**
+  - Yukun Zhou, Mark A. Chia, Siegfried K. Wagner, Murat S. Ayhan, Dominic J. Williamson, Robbert R. Struyven, Timing Liu, Moucheng Xu, Mateo G. Lozano, Peter Woodward-Court, Yuka Kihara, UK Biobank Eye & Vision Consortium, Andre Altmann, Aaron Y. Lee, Eric J. Topol, Alastair K. Denniston, Daniel C. Alexander & Pearse A. Keane. **Nature 2023**
     
 - DRAC: Diabetic Retinopathy Analysis Challenge with Ultra-Wide Optical Coherence Tomography Angiography Images
   [[pdf]](https://arxiv.org/pdf/2304.02389.pdf)
@@ -91,11 +96,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/pdf/2211.14552)
   [[code]](https://github.com/FDU-VTS/DRTiD)
   - Junlin Hou, Jilan Xu, Fan Xiao, Rui-Wei Zhao, Yuejie Zhang, Haidong Zou, Lina Lu, Wenwen Xue, Rui Feng. *BIBM 2022*
-    
-- Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images
-  [[pdf]](https://arxiv.org/pdf/2210.00515.pdf)
-  [[code]](https://github.com/FDU-VTS/DRAC)
-  - Junlin Hou, Fan Xiao, Jilan Xu, Yuejie Zhang, Haidong Zou, Rui Feng. *MICCAI Challenge 2022*
   
 - Image Quality Assessment Guided Collaborative Learning of image enhancement and classification for Diabetic Retinopathy Grading
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9997504)
@@ -127,6 +127,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/abs/2207.04183)
   - Haoxuan Che, Haibo Jin, Hao Chen. *MICCAI 2022*
 
+- Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images
+  [[pdf]](https://arxiv.org/pdf/2210.00515.pdf)
+  [[code]](https://github.com/FDU-VTS/DRAC)
+  - Junlin Hou, Fan Xiao, Jilan Xu, Yuejie Zhang, Haidong Zou, Rui Feng. *MICCAI Challenge 2022*
+    
 **2021**
 
 - Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
@@ -295,7 +300,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 
-### Multi-modal 
+### Multimodal 
 **CF & OCT B-scan**
 
 - Multi-Modal Multi-Instance Learning for Retinal Disease Recognition
@@ -312,7 +317,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
  
 
-### Fundus Image Enhancement
+### Enhancement
 
 **2023**
 
@@ -377,7 +382,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Pujin Cheng, Li Lin, Yijin Huang, Junyan Lyu, Xiaoying Tang. *MICCAI 2021*
   
 
-## Codes
+## Projects
 
 - [[EyePACS](https://github.com/YijinHuang/pytorch-classification)] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
 
