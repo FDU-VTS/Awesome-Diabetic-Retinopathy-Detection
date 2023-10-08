@@ -85,6 +85,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/chehx/DGDR)
   - Haoxuan Che, Yuhan Cheng, Haibo Jin, Hao Chen. *MICCAI 2023*
 
+- Lesion-Aware Contrastive Learning for Diabetic Retinopathy Diagnosis
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_63)
+  [[code]](https://github.com/IntelliDAL/Image)
+  - Shuai Cheng, Qingshan Hou, Peng Cao, Jinzhu Yang, Xiaoli Liu, Osmar R. Zaiane. *MICCAI 2023*
+
 - Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095713)
   [[code]](https://github.com/FDU-VTS/LANet)
