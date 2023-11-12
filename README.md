@@ -240,6 +240,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Segmentation
 
+**2023**
+
+- Automated lesion segmentation in fundus images with many-to-many reassembly of features
+  [[pdf]](https://doi.org/10.1016/j.patcog.2022.109191)
+  [[code]](https://github.com/CVIU-CSU/M2MRF-Lesion-Segmentation)
+  - Qing Liu, Haotian Liu, Wei Ke, Yixiong Liang. *PR 2023*
+
 **2022**
 
 - Progressive Multiscale Consistent Network for Multiclass Fundus Lesion Segmentation
