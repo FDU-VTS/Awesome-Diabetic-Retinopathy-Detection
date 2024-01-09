@@ -69,7 +69,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - A deep learning system for predicting time to progression of diabetic retinopathy
   [[pdf]](https://www.nature.com/articles/s41591-023-02702-z)
   [[code]](https://github.com/drpredict/DeepDR_Plus)
-  - Ling Dai, Bin Sheng, Tingli Chen, Qiang Wu, Ruhan Liu, Chun Cai, Liang Wu, Dawei Yang, Haslina Hamzah, Yuexing Liu, Xiangning Wang, Zhouyu Guan, Shujie Yu, Tingyao Li, Ziqi Tang, Anran Ran, Haoxuan Che, Hao Chen, Yingfeng Zheng, Jia Shu, Shan Huang, Chan Wu, Shiqun Lin, Dan Liu, Jiajia Li, Zheyuan Wang, Ziyao Meng, Jie Shen, Xuhong Hou, Chenxin Deng, Lei Ruan, Feng Lu, Miaoli Chee, Ten Cheer Quek, Ramyaa Srinivasan, Rajiv Raman, Xiaodong Sun, Ya Xing Wang, Jiarui Wu, Hai Jin, Rongping Dai, Dinggang Shen, Xiaokang Yang, Minyi Guo, Cuntai Zhang, Carol Y. Cheung, Gavin Siew Wei Tan, Yih-Chung Tham, Ching-Yu Cheng, Huating Li, Tien Yin Wong & Weiping Jia. **Nature Medicine**
+  - Ling Dai, Bin Sheng, Tingli Chen, Qiang Wu, Ruhan Liu, et al. *Nature Medicine*
 
 **2023**
 - A foundation model for generalizable disease detection from retinal images
