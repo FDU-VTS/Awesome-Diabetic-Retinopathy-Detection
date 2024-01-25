@@ -70,6 +70,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.nature.com/articles/s41591-023-02702-z)
   [[code]](https://github.com/drpredict/DeepDR_Plus)
   - Ling Dai, Bin Sheng, Tingli Chen, Qiang Wu, Ruhan Liu, et al. *Nature Medicine*
+ 
+- An interpretable dual attention network for diabetic retinopathy grading: IDANet
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365724000241)
+  - Amit Bhati, Neha Gour, Pritee Khanna, Aparajita Ojha, Naoufel Werghi. *Artificial Intelligence in Medicine 2024*
 
 **2023**
 - A foundation model for generalizable disease detection from retinal images
