@@ -324,7 +324,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Multimodal 
 **CF & OCT B-scan**
-
+- Geometric Correspondence-Based Multimodal Learning for Ophthalmic Image Analysis
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10388423)
+  - Yan Wang, Liangli Zhen, Tien-En Tan, Huazhu Fu, Yangqin Feng, Zizhou Wang, Xinxing Xu, Rick Siow Mong Goh, Yipin Ng, Claire Calhoun, Gavin SW Tan, Jennifer K Sun, Yong Liu, Daniel SW Ting. *TMI 2024*
+  
+- Reliable Multimodality Eye Disease Screening via Mixture of Student’s t Distributions
+  [[pdf]](https://arxiv.org/abs/2303.09790)
+  - Ke Zou, Tian Lin, Xuedong Yuan, Haoyu Chen, Xiaojing Shen, Meng Wang, Huazhu Fu. *MICCAI 2023*
+    
 - Multi-Modal Multi-Instance Learning for Retinal Disease Recognition
   [[pdf]](https://arxiv.org/abs/2109.12307)
   - Xirong Li, Yang Zhou, Jie Wang, Hailan Lin, Jianchun Zhao, Dayong Ding, Weihong Yu, Youxin Chen. *ACM MM 2021*
