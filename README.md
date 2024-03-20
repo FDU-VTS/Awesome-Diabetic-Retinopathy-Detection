@@ -75,6 +75,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365724000241)
   - Amit Bhati, Neha Gour, Pritee Khanna, Aparajita Ojha, Naoufel Werghi. *Artificial Intelligence in Medicine 2024*
 
+- Dual Branch Deep Learning Network for Detection and Stage Grading of Diabetic Retinopathy
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S174680942400226X)
+  - Hossein Shakibania, Sina Raoufi, Behnam Pourafkham, Hassan Khotanlou, Muharram Mansoorizadeh. *Biomedical Signal Processing and Control*
+
 **2023**
 - A foundation model for generalizable disease detection from retinal images
   [[pdf]](https://www.nature.com/articles/s41586-023-06555-x)
