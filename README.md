@@ -70,6 +70,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.nature.com/articles/s41591-023-02702-z)
   [[code]](https://github.com/drpredict/DeepDR_Plus)
   - Ling Dai, Bin Sheng, Tingli Chen, Qiang Wu, Ruhan Liu, et al. *Nature Medicine*
+
+- Semantic-oriented Visual Prompt Learning for Diabetic Retinopathy Grading on Fundus Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10487944)
+  - Yuhan Zhang, Xiao Ma, Kun Huang, Mingchao Li and Pheng-Ann Heng. *TMI*
+
+- A Lesion-Fusion Neural Network for Multi-View Diabetic Retinopathy Grading
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10488692)
+  - Xiaoling Luo, Qihao Xu, Zhihua Wang, Chao Huang, Chengliang Liu, Xiaopeng Jin and Jianguo Zhang. *JBHI*
  
 - An interpretable dual attention network for diabetic retinopathy grading: IDANet
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365724000241)
@@ -78,6 +86,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Dual Branch Deep Learning Network for Detection and Stage Grading of Diabetic Retinopathy
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S174680942400226X)
   - Hossein Shakibania, Sina Raoufi, Behnam Pourafkham, Hassan Khotanlou, Muharram Mansoorizadeh. *Biomedical Signal Processing and Control*
+
+- Self-Supervised Cross-Level Consistency Learning For Fundus Image Classification
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10448211)
+  - Qi Bi, Hao Zheng, Xu Sun, Jingjun Yi, Wentian Zhang, Yawen Huang, Yuexiang Li, Yefeng Zheng. *ICASSP 2024*
 
 **2023**
 - A foundation model for generalizable disease detection from retinal images
