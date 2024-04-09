@@ -17,6 +17,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | Dataset                   | Time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
 |---------------------------|----------|--------|-----------|----------|-------------|-------|------------| ----- |
 | [GDRBench](https://github.com/chehx/DGDR/blob/main/GDRBench/README.md) | 2023 | 111,357 | / | / | / | / | Multiple Institues | Domain Generalization in DR Grading (DGDR) |
+| [MFIDDR](https://github.com/mfiddr/MFIDDR) | 2023 | 34,452 | JPEG | Zeiss VISUCAM NM/FA | 2124 × 2056 | / | / | DR grading |
 | [DRTiD](https://github.com/FDU-VTS/DRTiD) | 2022 | 3100 | jpg | / | / | Two-field 45° | FDU | DR grading / localization |
 | [FGADR](https://csyizhou.github.io/FGADR/) | 2021| 2842 | / | / | / | / | IIAI | DR grading / Lesion segmentation |
 | [DDR](https://github.com/nkicsl/DDR-dataset) | 2019 | 13673 | jpg | Topcon, Nikon, Canon | / | 45° | Nankai | DR grading / Lesion segmentation/detection |
@@ -91,6 +92,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10448211)
   - Qi Bi, Hao Zheng, Xu Sun, Jingjun Yi, Wentian Zhang, Yawen Huang, Yuexiang Li, Yefeng Zheng. *ICASSP 2024*
 
+- RetiGen: A Framework for Generalized Retinal Diagnosis Using Multi-View Fundus Images
+  [[pdf]](https://arxiv.org/abs/2403.15647)
+  [[code]](https://github.com/zgy600/RetiGen)
+  - Ze Chen, Gongyu Zhang, Jiayu Huo, Joan Nunez do Rio, Charalampos Komninos, Yang Liu, Rachel Sparks, Sebastien Ourselin, Christos Bergeles, Timothy Jackson. *Arxiv*
+
 **2023**
 - A foundation model for generalizable disease detection from retinal images
   [[pdf]](https://www.nature.com/articles/s41586-023-06555-x)
@@ -115,6 +121,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_63)
   [[code]](https://github.com/IntelliDAL/Image)
   - Shuai Cheng, Qingshan Hou, Peng Cao, Jinzhu Yang, Xiaoli Liu, Osmar R. Zaiane. *MICCAI 2023*
+
+- MVCINN: Multi-View Diabetic Retinopathy Detection Using a Deep Cross-Interaction Neural Network
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/26080)
+  - Xiaoling Luo1, Chengliang Liu, Waikeung Wong, Jie Wen, Xiaopeng Jin, Yong Xu. *AAAI 2023*
 
 - Diabetic Retinopathy Grading with Weakly-Supervised Lesion Priors
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10095713)
@@ -265,6 +275,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### Segmentation
+
+**2024**
+
+- HACDR-Net: Heterogeneous-Aware Convolutional Network for Diabetic Retinopathy Multi-Lesion Segmentation
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28453)
+  [[code]](https://github.com/xqh180110910537/HACDR-Net)
+  [[video]](https://underline.io/lecture/92605-hacdr-net-heterogeneous-aware-convolutional-network-for-diabetic-retinopathy-multi-lesion-segmentation)
+  - QiHao Xu, Xiaoling Luo, Chao Huang, Chengliang Liu, Jie Wen, Jialei Wang, Yong Xu. *AAAI 2024*
 
 **2023**
 
